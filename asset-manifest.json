@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.9e066090.chunk.css",
-    "main.js": "/static/js/main.87b0fb7b.chunk.js",
-    "main.js.map": "/static/js/main.87b0fb7b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.caa06fcc.js",
-    "runtime-main.js.map": "/static/js/runtime-main.caa06fcc.js.map",
-    "static/js/2.aaba8462.chunk.js": "/static/js/2.aaba8462.chunk.js",
-    "static/js/2.aaba8462.chunk.js.map": "/static/js/2.aaba8462.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.9e066090.chunk.css.map": "/static/css/main.9e066090.chunk.css.map",
-    "static/js/2.aaba8462.chunk.js.LICENSE.txt": "/static/js/2.aaba8462.chunk.js.LICENSE.txt",
-    "static/media/earthimg.26919a8a.jpeg": "/static/media/earthimg.26919a8a.jpeg"
+    "main.css": "/ZachBach/earth-experiment/static/css/main.9e066090.chunk.css",
+    "main.js": "/ZachBach/earth-experiment/static/js/main.87b0fb7b.chunk.js",
+    "main.js.map": "/ZachBach/earth-experiment/static/js/main.87b0fb7b.chunk.js.map",
+    "runtime-main.js": "/ZachBach/earth-experiment/static/js/runtime-main.abdcb1fc.js",
+    "runtime-main.js.map": "/ZachBach/earth-experiment/static/js/runtime-main.abdcb1fc.js.map",
+    "static/js/2.aaba8462.chunk.js": "/ZachBach/earth-experiment/static/js/2.aaba8462.chunk.js",
+    "static/js/2.aaba8462.chunk.js.map": "/ZachBach/earth-experiment/static/js/2.aaba8462.chunk.js.map",
+    "index.html": "/ZachBach/earth-experiment/index.html",
+    "static/css/main.9e066090.chunk.css.map": "/ZachBach/earth-experiment/static/css/main.9e066090.chunk.css.map",
+    "static/js/2.aaba8462.chunk.js.LICENSE.txt": "/ZachBach/earth-experiment/static/js/2.aaba8462.chunk.js.LICENSE.txt",
+    "static/media/earthimg.26919a8a.jpeg": "/ZachBach/earth-experiment/static/media/earthimg.26919a8a.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.caa06fcc.js",
+    "static/js/runtime-main.abdcb1fc.js",
     "static/js/2.aaba8462.chunk.js",
     "static/css/main.9e066090.chunk.css",
     "static/js/main.87b0fb7b.chunk.js"
