@@ -2,3 +2,14 @@ canvas {
   height: 100%;
   width: 100%;
 }
+
+body {
+  background-color: black;
+}
+
+.head-text {
+  color: aliceblue;
+  text-align: center;
+  font-size: 3rem;
+  padding-top: 2%;
+}
