@@ -12,4 +12,6 @@ body {
   text-align: center;
   font-size: 3rem;
   padding-top: 2%;
+  margin-top: 0px;
+  z-index: 1;
 }

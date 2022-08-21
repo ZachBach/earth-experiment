@@ -20,22 +20,21 @@ const Sphere=()=>{
          color="red"
       />
       </mesh>
+
+      
    )
 }
 export default function App(){
    return (
       <>
       <div>
-         <p  className="head-text">Hello Devil World! 
-         <br/>
-         <br/>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, est sed vitae reprehenderit illum aliquam neque magnam, autem quidem non minima ut corporis quo. Error natus atque consectetur magni nulla?</p>
+         <p  className="head-text center"> GooN Squad</p>
       </div>
      <Canvas >
          <ambientLight />
          <Sphere />
       </Canvas>
-      <p  className="head-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa cum incidunt soluta est mollitia porro explicabo qui, ad, facere velit deserunt in. Minima sint placeat ab aliquam quidem laboriosam tempore.</p>
+      <p  className="head-text">World Wide</p>
        </>
    );
 };
